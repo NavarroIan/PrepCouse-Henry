@@ -1,2 +1,2 @@
-# PrepCouse-Henry
+# PrepCourse-Henry
 inicialización a prepcourse Henry
